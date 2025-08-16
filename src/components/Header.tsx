@@ -25,7 +25,7 @@ export const Header = ({ cartItemCount, onCartClick }: HeaderProps) => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-              ShopNexus
+              VJP's Ecommerce
             </h1>
           </div>
 
